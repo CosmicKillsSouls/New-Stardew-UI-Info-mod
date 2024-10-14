@@ -1,13 +1,38 @@
 Ground info - fertilizer type and speed grow type
+
 Crop info - seed type
+
 Tree info - tree type
+
 Tree seed info - growth stage
-Fruit tree info - tree type and time to harvest
+
+Fruit tree info - tree type and time until harvest
+
 Animal info - need to be pet (hide on max)
+
 Item hover info - CC bundle, item sell price, crop sell price (for seeds), shipping required, cooking required, crafting required
-Icons - weather, birthdays, luck, cart (hide when visited), Queen of Sauce (hide when player has recipe), Book seller (hide when visited), robin building time, clint upgrade time, seasonal forage (berries, crab season, hazelnuts), [??? festivals ???]
-Villager friendship - gifts given today, talked to today, [break up hearts into different segments]
+
+Machine hover info - product name, time untill completed
+
+Icons - weather, birthdays, luck, cart (hide when visited), Queen of Sauce (hide when player has recipe), Book seller (hide when visited)
+robin building time, clint upgrade time, seasonal forage (berries, crab season, hazelnuts), [??? festivals ???]
+
+Villager friendship - friendship hearts(break up hearts into different segments)
+
 Notifications - level up, xp gain
+
 Ranges - Scarecrows, sprinklers, and beehives
 
-Inventory buttons - Calendar, Billboard, Special orders (after unlocking), QI's orders (after unlocking) [??? in a new tab ???]
+Inventory buttons - Calendar, Help wanted board, Special orders (after unlocking), QI's orders (after unlocking) [new tab? special powers?]
+
+
+Config
+On/Off
+
+Show crop price - On
+Show sell price - On
+Calendar button - On
+Help wanted board button - On
+Special Order board button - On
+QI Special Order board button - On
+XP & Levelup notif - On
