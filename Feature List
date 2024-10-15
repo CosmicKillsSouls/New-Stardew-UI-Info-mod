@@ -8,7 +8,7 @@ Tree seed info - growth stage
 
 Fruit tree info - tree type and time until harvest
 
-Animal info - need to be pet (hide on max)
+Animal info - need to be pet (hide on max) {code done, needs UI}
 
 Item hover info - CC bundle, item sell price, crop sell price (for seeds), shipping required, cooking required, crafting required
 
@@ -19,7 +19,7 @@ robin building time, clint upgrade time, seasonal forage (berries, crab season, 
 
 Villager friendship - friendship hearts(break up hearts into different segments)
 
-Notifications - level up, xp gain {checks done, needs UI}
+Notifications - level up, xp gain {code done, needs UI}
 
 Ranges - Scarecrows, sprinklers, and beehives
 
