@@ -8,22 +8,41 @@ Tree seed info - growth stage
 
 Fruit tree info - tree type and time until harvest
 
-Animal info - need to be pet (hide on max) {code done, needs UI}
+Animal info - need to be pet (hide on max)
 
 Item hover info - CC bundle, item sell price, crop sell price (for seeds), shipping required, cooking required, crafting required
 
 Machine hover info - product name, time untill completed
 
-Icons - weather, birthdays, luck, cart (hide when visited), Queen of Sauce (hide when player has recipe), Book seller (hide when visited)
+Icons - weather, birthdays, luck, cart (hide when visited), Queen of Sauce (hide when player has recipe), Bookseller (hide when visited)
 robin building time, clint upgrade time, seasonal forage (berries, crab season, hazelnuts), [??? festivals ???]
 
 Villager friendship - friendship hearts(break up hearts into different segments)
 
-Notifications - level up, xp gain {code done, needs UI}
+// Notifications - level up, xp gain
 
 Ranges - Scarecrows, sprinklers, and beehives
 
 Inventory buttons - Calendar, Help wanted board, Special orders (after unlocking), QI's orders (after unlocking) [new tab? special powers?]
+
+
+
+
+The below have their code completed, but need UI elements 9/35
+
+Notifications - level up, xp gain
+
+Icons - weather, luck, birthdays, cart, Queen of Sauce, Bookseller
+
+Animal info - need to be pet
+
+
+
+
+
+
+
+
 
 
 Config
